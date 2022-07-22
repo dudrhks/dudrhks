@@ -1,6 +1,6 @@
 
   ### Yeonggwan Han(Malone)
-  <a href="https://malone-blog.vercel.app/"><img src="https://img.shields.io/badge/BLOG-00A98F?style=flat-square&logo=Blogger&logoColor=white"/>
+  <a href="https://malone.im/"><img src="https://img.shields.io/badge/BLOG-00A98F?style=flat-square&logo=Blogger&logoColor=white"/>
   <a href="mailto:yeongfree1@gmail.com"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
   <div>
